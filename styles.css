@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-size: 300%;
+  text-shadow: 2px 2px #ff0000;
+  padding-left: 50%;
+  border-style: groove;
+}
+img{
+  opacity: .8;
+}
+p {
+  color: red;
+  border-style: solid;
+  background-color: purple;
+  padding-left: 30%;
+}
+li{
+  background-color: white;
+  border-style: inset;
+}
